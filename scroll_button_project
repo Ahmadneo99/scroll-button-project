@@ -1,3 +1,7 @@
+// Erciyes Üniversitesi - Mühendislik Fakültesi - Bilgisayar Mühendisliği
+// Ders: Mobile App Development - Öğr. Üyesi: Dr. Fehim Köylü
+// Proje Ödevi - AHMAD SHIEKH OBAID - 1030520868
+
 import 'package:flutter/material.dart';
 
 void main() {
